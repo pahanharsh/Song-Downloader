@@ -1,19 +1,18 @@
-# Telegram Song Download Bot ❤
+# Telegram Song Download Bot 🎶
 
-## You can download any song using this bot. Can be found in telegram as [@JESongdlBot](https://t.me/JESongdlBot)
+## You can download any song using this bot. Can be found in telegram as [@Mp3DownloaderRobot](https://t.me/Mp3DownloaderRobot)
 
 ### Deploy to Heroku 🏃‍♂
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImJanindu/Songdl-tgbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prabhasha-p/Song-Downloader)
 
 ### Credits:
 
-[Infinity BOTs](https://t.me/Infinity_BOTs)
+[Galaxy Bots](https://t.me/GalaxyLanka)
 
 [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 
-### Developers:
+### Developer:
 
-[@ImJanindu](https://t.me/ImJanindu)
+[@Prabha_sha](https://t.me/Prabha_sha)
 
-[@InukaASiTH](https://t.me/InukaASiTH)
