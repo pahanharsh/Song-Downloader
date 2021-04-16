@@ -8,11 +8,11 @@
 
 ### Credits:
 
-[Galaxy Bots](https://t.me/GalaxyLanka)
+[SL_MEDIA_TECH_BOTS](https://t.me/SL_MEDIA_TECH_GRUOP)
 
 [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 
 ### Developer:
 
-[@Prabha_sha](https://t.me/Prabha_sha)
+[@Humangasor](https://t.me/@Humangasor)
 
