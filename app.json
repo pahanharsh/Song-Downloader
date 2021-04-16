@@ -10,7 +10,7 @@
     ],
     "website": "sltechcom.webnode.com",
     "repository": "https://github.com/ImJanindu/Songdl-tgbot",
-    "success_url": "https://t.me/GalaxyLanka",
+    "success_url": "https://t.me/SL_MEDIA_TECH",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
