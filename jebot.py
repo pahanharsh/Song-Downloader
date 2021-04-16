@@ -81,12 +81,12 @@ async def song(client, message):
     #if args.startswith("/help"):
         #return ""    
     status = await message.reply(
-             text="<b>Downloading your song, Plz wait 🥺\n\nMade by @GalaxyLanka 🇱🇰</b>",
+             text="<b>Downloading your song, Plz wait 🥺\n\nMade by @SL_MEDIA_TECH 🇱🇰</b>",
              disable_web_page_preview=True,
                         reply_markup=InlineKeyboardMarkup(
                             [[
                                     InlineKeyboardButton(
-                                        "Developer 👨‍💻", url="https://t.me/Prabha_sha")
+                                        "Developer 👨‍💻", url="https://t.me/Humangasor")
                                 ]]
                         ),
                parse_mode="html",
@@ -128,12 +128,12 @@ async def song(client, message):
         await message.reply("<b>Enter a song name❗\n\nExample: `/s guleba`</b>")
         return ""
     status = await message.reply(
-             text="<b>Downloading your song, Plz wait 🥺\n\nMade by @GalaxyLanka 🇱🇰</b>",
+             text="<b>Downloading your song, Plz wait 🥺\n\nMade by @SL_MEDIA_TECH🇱🇰</b>",
              disable_web_page_preview=True,
                         reply_markup=InlineKeyboardMarkup(
                             [[
                                     InlineKeyboardButton(
-                                        "Developer", url="https://t.me/Prabha_sha")
+                                        "Developer", url="https://t.me/Humangasor")
                                 ]]
                         ),
                parse_mode="html",
@@ -171,7 +171,7 @@ async def start(client, message):
                chat_id=message.chat.id,
                text="""<b>Hey There, I'm a Song Downloader Bot 🎶
 
-Made by @Prabha_sha 🇱🇰
+Made by @Humangasor 🇱🇰
 
 Hit help button to find out more about how to use me</b>""",   
                             reply_markup=InlineKeyboardMarkup(
@@ -179,7 +179,7 @@ Hit help button to find out more about how to use me</b>""",
                                         InlineKeyboardButton(
                                             "Help", callback_data="help"),
                                         InlineKeyboardButton(
-                                            "Group 🏘", url="https://t.me/GalaxyLanka")
+                                            "Group 🏘", url="https://t.me/SL_MEDUA_TECH")
                                     ]]
                             ),        
             disable_web_page_preview=True,        
